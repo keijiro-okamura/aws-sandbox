@@ -1,2 +1,2 @@
 # aws-sandbox
-AWS検証用リポジトリ Terraform
+AWS検証用リポジトリ
