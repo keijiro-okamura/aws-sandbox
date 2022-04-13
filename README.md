@@ -1,2 +1,2 @@
-# aws-sandbox-iac
+# aws-sandbox
 AWS検証用リポジトリ Terraform
